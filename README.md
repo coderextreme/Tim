@@ -27,7 +27,7 @@ Stick Rotations = 4*4 = 16
 Rotations of endpoints 4 sticks = 1
 Rotations of endpoints 4 curves = 1
 
-Total = 50
+Total = 50 (how?)
 
 
 Why add and not multiply curves+sticks?
