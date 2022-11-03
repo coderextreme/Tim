@@ -2,6 +2,7 @@
 Copyright 2022 John Carlson (JavaScript) Tim Climie (symbol design and mapping).  All Rights Reserved.
 
 
+```
 Curves = even bits
 Sticks = odd bits
 
@@ -71,3 +72,4 @@ Sticks = odd bits
 	choose 1 odd bit
 0:
 	choose 0 bits
+```
