@@ -5,21 +5,21 @@ Copyright 2022 John Carlson (JavaScript) Tim Climie (symbol design and mapping).
 Curves = even bits
 Sticks = odd bits
 
-0 curves = 4 choose 0 = 1 => 1 unique rotation
-1 curves = 4 choose 1 = 4 => 1 unique rotation
-2 curves = 4 choose 2 = 6 => 2 unique rotations
-3 curves = 4 choose 3 = 4 => 1 unique rotation
-4 curves = 4 choose 4 = 1 => 1 unique rotation
+0 curves = 4 choose 0 = 1 => 1 unique positions
+1 curves = 4 choose 1 = 4 => 1 unique positions
+2 curves = 4 choose 2 = 6 => 2 unique positions
+3 curves = 4 choose 3 = 4 => 1 unique positions
+4 curves = 4 choose 4 = 1 => 1 unique positions
 
-Sub-total  16 combinations or 6 rotations
+Sub-total  16 combinations or 6 positions
 
-0 sticks = 4 choose 0 = 1 => 1 unique rotation
-1 sticks = 4 choose 1 = 4 => 1 unique rotation
-2 sticks = 4 choose 2 = 6 => 2 unique rotations
-3 sticks = 4 choose 3 = 4 => 1 unique rotation
-4 sticks = 4 choose 4 = 1 => 1 unique rotation
+0 sticks = 4 choose 0 = 1 => 1 unique positions
+1 sticks = 4 choose 1 = 4 => 1 unique positions
+2 sticks = 4 choose 2 = 6 => 2 unique positions
+3 sticks = 4 choose 3 = 4 => 1 unique positions
+4 sticks = 4 choose 4 = 1 => 1 unique positions
 
-Sub-total 16 combinations or 6 rotations
+Sub-total 16 combinations or 6 positions
 
 Total = 16x16 or 6x6 = 256 or 36
 
