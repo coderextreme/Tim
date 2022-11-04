@@ -24,7 +24,7 @@ function describeArc(x, y, radius, startAngle, endAngle){
 	    return d;       
 }
 console.log('<html><body><svg id="svg" width="850" height="850" xmlns="http://www.w3.org/2000/svg"><g id="g" style="font:10px times">');
-var scale = 50;
+var scale = 100;
 var left = 7;
 var down = 7;
 
