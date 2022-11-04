@@ -24,13 +24,11 @@ Sub-total 16 combinations or 6 positions
 Total = 16x16 or 6x6 = 256 or 36
 
 
-8:1
-	choose all bits
 7:2
 	leave out 1 curve bit
 	leave out 1 stick bit
 6:6
-	Leave out 2 adjacent curve bits
+	leave out 2 adjacent curve bits
 	leave out 2 non-adjacent curve bits
 	leave out 2 stick linear bits
 	leave out 2 stick non-linear bits
@@ -61,7 +59,6 @@ Total = 16x16 or 6x6 = 256 or 36
 	leave out 2 adjacent curve bits and 2 linear stick bits, loop (40.2.5)
 	leave out 1 curve bit and 3 adjacent stick bits, no-intersections (40.2.2)
 	leave out 1 curve bit and 3 adjacent stick bits, 1 intersection (40.1.1)
-
 3:10
 	choose 2 adjacent curve bits and 1 adjacent stick bit
 	choose 2 adjacent curve bits and 1 non-adjacent stick bit
@@ -83,6 +80,4 @@ Total = 16x16 or 6x6 = 256 or 36
 1:2
 	choose 1 curve bit
 	choose 1 stick bit
-0:1
-	choose 0 bits
 ```
